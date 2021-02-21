@@ -24,5 +24,5 @@ Version 1.0 uses a different layout that utilizes a 6U Cherry Spacebar. But sinc
 | C44854        | MCU           | 32U4  | QFP-44   | 1      |
 | C341521       | Resonator     | 16MHz | SMD      | 1      |
 | C92584        | Switch        |       | SMD      | 1      |
-| -----------   | ------------- | ----- | -------- | ------:|
+
 | Kailh/Gateron | Hotswap socket|       | SMD      | 108    |
