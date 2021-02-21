@@ -1,5 +1,5 @@
 # G80-1800
-Making a custom PCB for Cherry G80-1800 hot swap sockets.
+Making a custom PCB for Cherry G80-1800 with hotswap socket compatibility.
 
 This is a customized version of evyd13's files found here: [GH80-1800](https://github.com/evyd13/gh80-series/tree/master/GH80-1800)
 
