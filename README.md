@@ -9,7 +9,7 @@ Must use hotswap sockets, otherwise you will have to change the switch footprint
 
 **Versions** V1.0 uses a different layout that utilizes a 6U Cherry Spacebar. But since these are rather difficult to come by, both 6U spacebar and 6U stabilizers. The updated Version 1.1 utilizes a 6.25U spacebar but eliminates a key and changes some key sizes on each side of the spacebar.
 
-**Firmware** for Version 1.0 is not yet built and needs to be generated through kbfirmware.com the .json can be used there.
+**Firmware** for Version 1.1 is not yet built and needs to be generated through kbfirmware.com the .json can be used there.
 
 **Project Files** are created with KiCad.
 Version: (5.99.0-7511-ga134567838), release build
