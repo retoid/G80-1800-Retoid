@@ -7,7 +7,7 @@ This is a customized version of evyd13's files found here: [GH80-1800](https://g
 The PCB supports PCB or Plate mount switches. However the Plate file supports only PCB mount stabilizers.
 Must use hotswap sockets, otherwise you will have to change the switch footprints to accept solder mount.
 
-**Versions** V1.0 uses a different layout that utilizes a 6U Cherry Spacebar. But since these are rather difficult to come by, both 6U spacebar and 6U stabilizers. V1.0 does not have the PCB mount support holes for switches. The updated V1.1 utilizes a 6.25U spacebar but eliminates a key and changes some key sizes on each side of the spacebar.
+**Versions** V1.0 uses a different layout that utilizes a 6U Cherry Spacebar. But since these are rather difficult to come by, both 6U spacebar and 6U stabilizers. The updated V1.1 utilizes a 6.25U spacebar but eliminates a key and changes some key sizes on each side of the spacebar. V1.0 does not have the PCB mount support holes for switches.
 
 **Firmware** for Version 1.1 is not yet built. In the meantime you can use the .json file in /firmware/ to geneare the raw data on [keyboard-layout-lditor.com](http://keyboard-layout-editor.com) and use that to generate firmware using [kbfirmware.com](http://kbfirmware.com)
 
